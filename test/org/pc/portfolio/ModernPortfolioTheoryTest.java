@@ -1,8 +1,6 @@
-package org.pc.test;
+package org.pc.portfolio;
 import java.text.DecimalFormat;
 import java.util.Arrays;
-
-import org.pc.src.ModernPortfolio;
 
 public class ModernPortfolioTheoryTest {
 

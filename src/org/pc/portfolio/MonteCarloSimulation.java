@@ -1,4 +1,4 @@
-package org.pc.src;
+package org.pc.portfolio;
 import java.util.Random;
 /*
  * @author karthikBalasundaram
